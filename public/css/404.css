@@ -1,0 +1,13 @@
+.four-o-four-msg-section {
+    width: 100%;
+    padding: 60px 10vw;
+}
+.four-o-four-image {
+    display: block;
+    margin: 10px auto;
+}
+.four-o-four-msg {
+    text-align: center;
+    text-transform: capitalize;
+    color: #383838;
+}
